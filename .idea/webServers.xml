@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="21537cbb-6525-4f1e-a145-a66d8076d58a" name="lze">
+        <fileTransfer accessType="SFTP" host="192.168.0.200" port="22" sshConfigId="811b5efc-f236-41e3-80a8-9177695198ae" sshConfig="虚拟机node0">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
